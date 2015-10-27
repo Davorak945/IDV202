@@ -1,0 +1,96 @@
+@font-face 
+{
+   font-family: 'Advent Pro ExtraLight';
+    src:url('AdventPro-ExtraLight.ttf');
+    font-style:normal;
+    font-weight:large;
+    
+    
+}
+
+body
+{
+     
+   background-color: white;
+   
+}
+
+.logo
+{
+   
+    margin :0px 10px 10px 5px;
+    padding :6px 0px 0px 40px;
+    
+}
+
+a {
+    color:white;
+    background-color:black;
+    font-family: 'Advent Pro ExtraLight';
+    transition:color 1.0s linear 1.0s;
+    padding :6px 30px 0px 40px;
+     margin :0px 10px 10px 5px;
+    text-decoration: none;
+}
+	  
+a:hover {
+         color:darkgray;
+    }
+
+figcaption
+{
+    
+   font-family: 'Advent Pro ExtraLight' ;
+}
+ 
+section
+{
+    font-family: 'Advent Pro ExtraLight' ;
+    font-size: 20px;
+    margin :40px 100px 40px 100px;
+    padding :60px 50px 50px 70px;
+}
+
+secondary-box
+{
+    background: #BEB6AA;   
+    transform: skewX(25deg) scale(0.9);
+}
+
+box
+{
+    
+    padding: 5px;
+    border: 2px #D6CEBA;
+    margin: 10px;
+    margin: 40px 180px 40px 180px;
+    padding: 20px 50px 50px 70px;
+    
+}
+
+footer
+{
+    font-family: 'Advent Pro ExtraLight'  ;
+    margin :40px 500px 40px 100px;
+    padding :60px 50px 450px 370px;
+}
+
+input
+{
+    font-family: 'Advent Pro ExtraLight' ;
+    font-size: 20px;
+    border-radius: 10px;
+    padding :6px 30px 0px 40px;
+    margin :0px 10px 10px 5px;
+    
+}
+fileToUpload
+{
+    font-family: 'Advent Pro ExtraLight' ;
+    font-size: 20px;
+    border-radius: 10px;
+    padding :6px 30px 0px 40px;
+    margin :0px 10px 10px 5px;
+    
+}
+
